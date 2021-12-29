@@ -1,0 +1,4 @@
+*.py
+*.exe
+/bin/
+testdata.xls
